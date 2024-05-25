@@ -26,4 +26,17 @@
     - Linhas: As interfaces como um todo
     
 # Design Patterns
-- 
+- Chain Of Responsibility
+    - Padrão: Comportamental
+    - Package: br.gov.caixa.banco.exception
+    - Classe: GlobalExceptionHandler
+    - Linhas: Todos os métodos anotados com @ExceptionHandler
+- Builder
+    - Padrão: Criacional
+    - Package: br.gov.caixa.banco.usuario
+    - Classe: Usuario
+    - Linhas: 41 e 42 
+    
+OBS: Infelizmente o tempo acabou, professor... São 23:30
+
+Lamento por não conseguir buildar o código e nem implementar no código os princípios SOLID e os patterns
